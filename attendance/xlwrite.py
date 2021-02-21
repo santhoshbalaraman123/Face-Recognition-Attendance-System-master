@@ -5,6 +5,7 @@ from xlwt import Workbook;
 from xlutils.copy import copy
 from pathlib import Path
 
+
 '''style0 = xlwt.easyxf('font: name Times New Roman, color-index red, bold on',
     num_format_str='#,##0.00')
 style1 = xlwt.easyxf(num_format_str='D-MMM-YY')
